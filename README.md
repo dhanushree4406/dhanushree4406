@@ -1,26 +1,26 @@
-Hi, I'm Dhanushree N A 👋
-IT Professional | Software Development Enthusiast | DSA Learner
-🙋‍♀️ Who Am I?
-I'm an IT professional with 2 years of experience and a passion for technology, software development and continuous learning. I also have experience as a technical trainer, where I enjoy simplifying technical concepts and sharing knowledge with others.
+**Hi, I'm Dhanushree N A 👋**
+Full Stack Developer | Java Developer | Problem Solver 🚀
 
-I'm passionate about improving my programming skills, solving problems and exploring new technologies.
-🚀 What Am I Currently Working On?
-- Strengthening my Data Structures and Algorithms (DSA) skills.
-- Practising problem-solving using C and Java.
-- Learning and implementing Data Structures such as Linked Lists, Stacks, Queues, Trees and Graphs.
-- Exploring Java Full Stack Development.
-- Building practical projects to improve my technical skills.
-🛠️ Tools & Technologies I Use
-- Programming Languages: C, Java
-- Data Structures & Algorithms: Arrays, Linked Lists, Stacks, Queues, Trees, Sorting and Searching
-- Development Tools: VS Code, Git, GitHub
-- Currently Exploring: Java Full Stack Development, SQL and Web Technologies
-📫 How to Reach Me
-- Email: Your professional email address
-- LinkedIn: Your LinkedIn profile URL
-- GitHub: My GitHub Profile
-I'm always interested in learning, collaborating and connecting with people in the technology community.
-✨ My Goal
-To continuously learn, build meaningful projects and grow as a skilled software professional.
+**🙋‍♀️ About Me**
+IT professional with 2 years of experience in software development and technical training. Passionate about building scalable web applications, developing backend services, integrating REST APIs and solving real-world problems.
 
-"Learning every day, coding every day, growing every day!" 🚀
+**🚀 Currently Exploring**
+Data Structures & Algorithms
+Microservices Architecture
+CI/CD and deployment practices
+Building end-to-end full-stack applications
+
+**🛠️ Tech Stack**
+Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS
+Backend: Core Java, Advanced Java, OOP, JDBC, Hibernate, Spring, Spring Boot
+Programming & DSA: C, Java, Data Structures & Algorithms
+API & Testing: REST APIs, Postman
+Database: JDBC-based database connectivity
+DevOps & Tools: Git, GitHub, VS Code, CI/CD
+Other Skills: Networking, Linux, Microservices
+
+**📫 Connect With Me**
+Email: dhanushree0905@gmail.com
+LinkedIn: https://www.linkedin.com/in/dhanushree2002/
+
+✨ **Building Solutions | Solving Problems | Growing Every Day**
